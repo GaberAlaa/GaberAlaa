@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello i'm Gaber and i'm a Data Analyst 
+---
+i have a strong technical foundation in end-to-end data analysis.
+Proficient in extracting data with SQL, performing advanced modeling in Excel, and creating automated visualizations in Power BI. Experienced in data cleaning and preprocessing using Python (Pandas/NumPy).
+
+---
+here are some of my highlighted Projects 
 
 <!--
 **GaberAlaa/GaberAlaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
